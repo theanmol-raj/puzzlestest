@@ -1,0 +1,333 @@
+body, html {
+    overflow-x: hidden !important;
+    font-family: 'Raleway', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    color: #777;
+    font-weight: 300;
+    width: 100% !important;
+    height: 100% !important
+   /* background-color: black;*/
+}
+p {
+    font-size: 16px;
+}
+hr {
+    height: 2px;
+    width: 110px;
+    text-align: center;
+    position: relative;
+    background: #8eb640;
+    margin: 0;
+    margin-bottom: 40px;
+    border: 0;
+}
+/*This is class section*/
+.navbarcustom{
+    margin-right: 48%;
+    margin-left: 2%;
+
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #8eb640!important;
+}
+
+.navitemcustom{
+    margin-left: 2px;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.9rem;
+    
+}
+.intro{
+    background-image: url("Images/mainimageb.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 100%;
+}
+.introimage{
+    width: 100%;
+    height: 90%;
+    position: relative;
+    filter: blur(3px) brightness(50%);
+}
+.introtext{
+    font-family: 'Lobster', cursive;
+    font-size: 8rem !important;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 15%;
+}
+.introtextspan{
+    font-family: 'Raleway', sans-serif;
+    font-size: 7rem;
+}
+.navbar-brand{
+    font-family: 'Volkorn','serif';
+    font-weight: 'bold';
+    
+}
+.btn-custom{
+    background-color: none;
+    color: #fff;
+    border:solid #fff 3px;
+    margin-top: 5%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    
+   
+}
+.btn-custom:hover{
+    background-color: #8eb640;
+    color: #fff;
+    border:solid #8eb640 2px;
+}
+.glow {
+    
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 5px rgb(0, 0, 0), 0 0 10px rgb(0, 0, 0), 0 0 15px #1b1b1b, 0 0 20px #424242, 0 0 25px #0a0a0a, 0 0 30px #292928, 0 0 35px #000000;               
+}
+.centercustom{
+    margin-left: 30%;
+    margin-top: 5%;
+    padding-bottom: 8%;
+    background-repeat: no-repeat;
+}
+.columnded{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.d-box{
+    padding: 5px 5px 5px;
+
+}
+.d-row{
+    margin: 0 7% 0;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.f-row{
+    margin: 0 7% 0;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.feature-title-sub{
+    font-size: 1.5rem;
+    color: rgb(37, 35, 35);
+    font-weight: 700;
+
+}
+
+.vl {
+    border-left: 6px solid #8eb640;
+    height: 450px;
+    
+  }
+.map{
+    height: 90%;
+    width: 90%;
+    border: 5% 5%;
+    margin: 5% 5%;
+}
+.feature-title{
+    margin-top: 7%;
+    font-size: 3rem;
+    color: rgb(37, 35, 35);
+}
+
+.feature-title-xd{
+    color: #fff;
+    font-weight: 650;
+    margin-left: 28%;
+    padding-top: 10%;
+    text-transform: uppercase;
+    
+}
+.feature-text-xd{
+    color: #fff;
+    
+    padding-top: 2%;
+    padding-bottom: 5%;
+    margin-left: 28%;
+    margin-right: 27%;
+    font-weight: 600;
+}
+.bottom-container{
+    
+    background-repeat: no-repeat;
+}   
+
+.parallax {
+    background-image: url("images/sec-image.jpg");
+    height: 28%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .parallax2 {
+    background-image: url("images/sec-image2.jpg");
+    height: 28%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }  
+
+.feature-title-parallax{
+    margin-top: 7%;
+    font-size: 3rem;
+    font-weight: 800;
+    color: rgb(255, 255, 255)!important;
+    padding-top: 4%;
+    
+}
+    
+/*this is gallery code*/
+
+
+/*This is the id section*/
+#middle-container{
+    background-color: rgb(247, 255, 240);
+}
+#rahul{
+    background-color: rgb(247, 255, 240);
+
+}
+
+.feature-text-xd{
+    color: #fff;
+    
+    padding-top: 2%;
+    padding-bottom: 5%;
+    margin-left: 28%;
+    margin-right: 27%;
+    font-weight: 600;
+}
+/*this is gallery code*/
+
+
+/*This is the id section*/
+#middle-container{
+    background-color: rgb(247, 255, 240);
+}
+#rahul{
+    background-color: rgb(247, 255, 240);
+
+}
+
+.feature-text-xd{
+    color: #fff;
+    
+    padding-top: 2%;
+    padding-bottom: 5%;
+    margin-left: 28%;
+    margin-right: 27%;
+    font-weight: 600;
+}
+
+/*this is gallery code*/
+
+
+/*This is the id section*/
+#middle-container{
+    background-color: rgb(247, 255, 240);
+}
+#rahul{
+    background-color: rgb(247, 255, 240);
+
+}
+#bottom-container{ 
+    
+    max-width: 100%;
+}
+.feature-text-xd{
+    color: #fff;
+    
+    padding-top: 2%;
+    padding-bottom: 5%;
+    margin-left: 28%;
+    margin-right: 27%;
+    font-weight: 600;
+}
+.bottom-container{
+    background-image: url("images/sec-image.jpg");
+    background-repeat: no-repeat;
+    
+    max-width: 100%;
+    line-height: 2;
+}
+.space1{
+    margin-left: 45.5%;
+    height: 5px;
+    width: 140px;
+}
+.space2{
+    margin-left: 42%;
+    height: 5px;
+    width: 80px;
+    margin-top: 4%;
+}
+
+
+
+
+
+
+/*this is gallery code*/
+
+
+/*This is the id section*/
+
+
+
+#middle-container{
+    background-color: rgb(247, 255, 240);
+}
+#rahul{
+    background-color: rgb(247, 255, 240);
+
+}
+.kenter{
+    text-align: center;
+    margin-top: 15%;
+    color: black;
+}
+.menu-section{
+    margin: 0 20px 80px;
+}
+.menu-item{
+    margin: 35px 0;
+	font-size: 18px;
+}
+
+.menu-item-name{
+    font-weight: 600;
+	font-size: 17px;
+	color: #555;
+	border-bottom: 2px dotted rgb(213, 213, 213);
+}
+.menu-item-price{
+    float: right;
+	font-weight: 600;
+	color: #555;
+	margin-top: -26px;
+}
+
+.menu-item-description{
+    font-style: italic;
+	font-size: 15px;
+    
+}
+.menucardaligner{
+    margin-left: 5%;
+    margin-right: 5%;
+}
